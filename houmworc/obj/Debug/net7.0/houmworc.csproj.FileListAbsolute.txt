@@ -1,0 +1,15 @@
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\bin\Debug\net7.0\houmworc.exe
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\bin\Debug\net7.0\houmworc.deps.json
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\bin\Debug\net7.0\houmworc.runtimeconfig.json
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\bin\Debug\net7.0\houmworc.dll
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\bin\Debug\net7.0\houmworc.pdb
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\obj\Debug\net7.0\houmworc.csproj.AssemblyReference.cache
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\obj\Debug\net7.0\houmworc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\obj\Debug\net7.0\houmworc.AssemblyInfoInputs.cache
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\obj\Debug\net7.0\houmworc.AssemblyInfo.cs
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\obj\Debug\net7.0\houmworc.csproj.CoreCompileInputs.cache
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\obj\Debug\net7.0\houmworc.dll
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\obj\Debug\net7.0\refint\houmworc.dll
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\obj\Debug\net7.0\houmworc.pdb
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\obj\Debug\net7.0\houmworc.genruntimeconfig.cache
+C:\Users\GadgetStock\Desktop\HoumWorc\houmworc\obj\Debug\net7.0\ref\houmworc.dll
